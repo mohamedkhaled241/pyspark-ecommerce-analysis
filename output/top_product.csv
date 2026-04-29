@@ -1,0 +1,10 @@
+city,product,order_count,rank
+Alex,Laptop,5,1
+Alex,Tablet,4,2
+Alex,Phone,1,3
+Cairo,Phone,8,1
+Cairo,Laptop,5,2
+Cairo,Tablet,4,3
+Giza,Phone,6,1
+Giza,Laptop,4,2
+Giza,Tablet,1,3

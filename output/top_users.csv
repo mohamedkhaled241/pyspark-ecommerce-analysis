@@ -1,0 +1,10 @@
+user_id,name,city,total_spent,customer_status,rank
+19,Amr,Alex,18200,VIP,1
+9,Nour,Alex,15000,Normal,2
+13,Samy,Alex,15000,Normal,3
+11,Karim,Cairo,21000,VIP,1
+20,Yara,Cairo,18000,VIP,2
+6,Laila,Cairo,17500,VIP,3
+12,Huda,Giza,16000,VIP,1
+15,Tarek,Giza,16000,VIP,2
+2,Ahmed,Giza,15000,Normal,3
